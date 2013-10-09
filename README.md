@@ -4,6 +4,7 @@
 
 RadioresepsjonenBuddy is a very simple Chrome Extension that lists the
 latest 7 podcasts from http://podkast.nrk.no/program/radioresepsjonen.rss.
+The popup.js uses the google Feeds API to parse the RSS feed. Which is then appended to popup.html.
 
 ## Why?
 
